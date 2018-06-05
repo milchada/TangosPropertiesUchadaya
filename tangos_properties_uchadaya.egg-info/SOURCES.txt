@@ -1,0 +1,9 @@
+setup.py
+tangos_properties_uchadaya/__init__.py
+tangos_properties_uchadaya/vdisp.py
+tangos_properties_uchadaya.egg-info/PKG-INFO
+tangos_properties_uchadaya.egg-info/SOURCES.txt
+tangos_properties_uchadaya.egg-info/dependency_links.txt
+tangos_properties_uchadaya.egg-info/not-zip-safe
+tangos_properties_uchadaya.egg-info/requires.txt
+tangos_properties_uchadaya.egg-info/top_level.txt
