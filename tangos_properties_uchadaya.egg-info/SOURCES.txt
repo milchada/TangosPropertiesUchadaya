@@ -1,5 +1,8 @@
 setup.py
 tangos_properties_uchadaya/__init__.py
+tangos_properties_uchadaya/gamma.py
+tangos_properties_uchadaya/precipitation.py
+tangos_properties_uchadaya/therm.py
 tangos_properties_uchadaya/vdisp.py
 tangos_properties_uchadaya.egg-info/PKG-INFO
 tangos_properties_uchadaya.egg-info/SOURCES.txt
